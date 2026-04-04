@@ -6,14 +6,16 @@ My research focuses on applying machine learning techniques to EEG data for epil
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on: Working on AI-driven analysis of EEG data for epilepsy diagnosis, severity prediction, and   treatment response as a MSCA Postdoctoral Researcher.
-- 🌱 I’m currently learning: Advanced machine learning techniques, deep learning for time-series data, and scalable AI             solutions for healthcare applications.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on: Working on AI-driven analysis of EEG data for epilepsy diagnosis, severity prediction, and treatment response as a Marie Curie Postdoctoral Researcher.
+- 🌱 I’m currently learning: Advanced machine learning techniques, deep learning for time-series data, and scalable AI solutions for healthcare applications.
+- 👯 I’m looking to collaborate on: AI in healthcare, EEG/MEG signal processing, and machine learning projects involving real-world biomedical or time-series data.
+- 🤔 I’m looking for help with: Optimizing machine learning models for EEG data and exploring interpretable AI approaches for clinical applications.
+- 💬 Ask me about: Machine learning, data analytics, EEG signal processing, feature engineering, and AI applications in healthcare.
+- 📫 How to reach me:
+* Email: abidismraza@gmail.com
+* LinkedIn: https://www.linkedin.com/in/smrazaabdi
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I transitioned from banking data analytics to cutting-edge AI research in healthcare, combining industry experience with academic innovation.
 
 ## Core Skills
 * Machine Learning & Deep Learning

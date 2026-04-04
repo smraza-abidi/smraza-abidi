@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, It's Raza 👋 (Dr SM Raza Abidi, PhD)
 
 I am an AI researcher with a strong background in machine learning, data analytics, and biomedical signal processing. I hold a PhD in Computer Applications Technology and currently work as a Marie Sklodowska-Curie Actions Co. fund (MSCA) Postdoctoral Researcher at Dublin City University.
 
@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with: Optimizing machine learning models for EEG data and exploring interpretable AI approaches for clinical applications.
 - 💬 Ask me about: Machine learning, data analytics, EEG signal processing, feature engineering, and AI applications in healthcare.
 - 📫 How to reach me:
-* Email: abidismraza@gmail.com
-* LinkedIn: https://www.linkedin.com/in/smrazaabdi
+    * Email: abidismraza@gmail.com
+    * LinkedIn: https://www.linkedin.com/in/smrazaabdi
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I transitioned from banking data analytics to cutting-edge AI research in healthcare, combining industry experience with academic innovation.
 

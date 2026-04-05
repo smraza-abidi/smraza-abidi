@@ -17,7 +17,7 @@ Here are some ideas to get you started:
     * Email: abidismraza@gmail.com
     * LinkedIn: https://www.linkedin.com/in/smrazaabdi
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I transitioned from banking data analytics to cutting-edge AI research in healthcare, combining industry experience with academic innovation.
+- ⚡ Fun fact: I enjoy turning complex biomedical data into meaningful insights using AI.
 
 ## Core Skills
 * Machine Learning & Deep Learning

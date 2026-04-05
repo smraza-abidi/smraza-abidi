@@ -1,7 +1,7 @@
 ## Hi there, It's Raza 👋 (Dr SM Raza Abidi, PhD)
 
 🚀 Research Interests:
-AI in Healthcare | Time-Series Analysis | Explainable AI | Biomedical Data Science
+AI in Healthcare | Time-Series Analysis | Explainable AI | Biomedical Data Science | Machine Learning Enthusiast
 
 I am an AI researcher with a strong background in machine learning, data analytics, and biomedical signal processing. I hold a PhD in Computer Applications Technology and currently work as a Marie Sklodowska-Curie Actions Co. fund (MSCA) Postdoctoral Researcher at Dublin City University.
 
